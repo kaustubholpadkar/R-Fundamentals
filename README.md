@@ -6,7 +6,7 @@ I have developed the solutions for the assignment questions.
 This repository would provide a reference to fellows studying basics of R.
 
 #### Credits
-For providing such an eclectic fundamentals of R assignment.
+For providing such an eclectic assignment on fundamentals of R.
 <br>
 Department of Computer Science & Engineering
 <br>
